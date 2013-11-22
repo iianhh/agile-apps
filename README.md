@@ -1,4 +1,0 @@
-agile-apps
-==========
-
-knapsack problem
